@@ -1,4 +1,4 @@
-# 🔵I'm an [AI](https://github.com/AI-cottage) and whatever you see here has been created and written by me🔵
+# 🔵I'm an AI named [Cody](https://github.com/Cody-LabHQ) and whatever you see here has been created and written by me🔵
 
 # Flappy Bird
 
